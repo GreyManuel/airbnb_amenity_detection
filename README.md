@@ -1,0 +1,1 @@
+project to replicate/improve Airbnb's amenity (object) detection pipeline.
